@@ -1,0 +1,18 @@
+
+/*how Css works
+selcted tag{
+  property:value;
+}
+*/
+h1{
+  color: Green;
+}
+li{
+  color:rgb(147, 22, 158);
+}
+p{
+  color:#168e9e;
+}
+h4{
+  color: rgba(255, 97, 0, 1);
+}
